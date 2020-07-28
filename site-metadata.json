@@ -5,7 +5,7 @@
     "header": {
         "title": "Miiisc",
         "logo_img": "images/good-jupiter.png",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
