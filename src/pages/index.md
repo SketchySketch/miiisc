@@ -14,5 +14,5 @@ intro_actions:
     url: /contact
     style: secondary
 template: home
-excerpt: Myyyyy Blog.
+excerpt: Myyy Blog.
 ---
