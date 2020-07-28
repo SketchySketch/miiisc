@@ -10,9 +10,6 @@ intro_actions:
   - label: Learn More
     url: /about
     style: primary
-  - label: Contact
-    url: /contact
-    style: secondary
 template: home
 excerpt: Blooog. Anything strange?
 ---
