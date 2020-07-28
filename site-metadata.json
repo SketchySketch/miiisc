@@ -32,13 +32,6 @@
                 "style": "icon",
                 "icon_class": "fa-github",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "style": "icon",
-                "icon_class": "fa-dev",
-                "new_window": true
             }
         ],
         "has_subscribe": false,
