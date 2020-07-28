@@ -1,7 +1,7 @@
 {
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "black",
     "header": {
         "title": "Ampersand",
         "logo_img": "images/logo.png",
