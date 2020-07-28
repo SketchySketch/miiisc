@@ -1,8 +1,10 @@
 ---
 title: Cryptography 1
-date: '2020-07-14'
 excerpt: >-
   In today's world cryptography is used everywhere. I will explain it step-by-step.
+date: '2020-07-14'
+thumb_img_path: images/1.jpg
+content_img_path: images/1.jpg
 template: post
 ---
 
