@@ -14,4 +14,5 @@ intro_actions:
     url: /contact
     style: secondary
 template: home
+excerpt: Blog about miscs
 ---
