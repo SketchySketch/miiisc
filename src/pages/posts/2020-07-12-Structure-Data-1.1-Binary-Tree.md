@@ -1,9 +1,11 @@
 ---
 title: Structure Data 1.1 Binary Tree
-date: "2020-07-12"
 excerpt: >-
   Binary tree is a data structure represented as a tree. Binary tree have three traversing ways, and in-order traversal is usually used in Binary Search Trees (BSTs), while post-order traversal is usually used in parsing.
-layout: post
+date: "2020-07-12"
+thumb_img_path: images/1.jpg
+content_img_path: images/1.jpg
+template: post
 ---
 
 # Introduction

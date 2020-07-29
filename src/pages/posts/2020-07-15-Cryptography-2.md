@@ -1,9 +1,11 @@
 ---
 title: Cryptography 2
-date: "2020-07-15"
 excerpt: >-
   In today's world cryptography is used everywhere. I will explain it step-by-step.
-layout: post
+date: "2020-07-15"
+thumb_img_path: images/1.jpg
+content_img_path: images/1.jpg
+template: post
 ---
 
 [Portal to **Cryptography 1**](https://sketchy-sketch-code.netlify.app/posts/cryptography-1/)
