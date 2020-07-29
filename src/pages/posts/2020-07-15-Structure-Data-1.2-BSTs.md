@@ -3,8 +3,6 @@ title: Structure Data 1.2 BSTs
 excerpt: >-
   Binary Search Tree or BST is an effective data structure. In this article I will introduce it and bring you the code of creating, adding, removing, searching and altering BSTs.
 date: "2020-07-12"
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
 template: post
 ---
 
