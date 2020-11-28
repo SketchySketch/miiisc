@@ -66,4 +66,37 @@ So what on earth is the relation between compass-and-straightedge construction a
 
 It begins with a surprising discovery by myself a few days ago.
 
-**Proposition: Given the length of _1_, _n_ reals _a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>_ and a rational polynomial _f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_. With a compass and a ruler we can construct the length of _f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_, _sqrt(f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_) and _1 / f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_.**
+**Proposition 1: Given the length of _1_, _n_ reals _a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>_ and a rational polynomial _f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_. With a compass and a ruler we can construct the length of _f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_, _sqrt(f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_) and _1 / f(a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub>)_.**
+
+It might be quite unbelievable. Some may find it odd because of some reasons about *units*: We should be only able to construct *lines*, or *1-degree polynomials*. What I want to say is, that's the use of the length of *1*: let *deg(f) = n*, then *f / 1<sup>n-1</sup>* is exactly linear.
+
+Let's prove that proposition.
+
+### A Possible Proof
+**Proposition A<sub>0</sub>: Given a rectangle. We can construct a square with the same area.**
+
+It's possible because of the *projection theorem*.
+
+**Proposition A: Given _1_ and _a_. We can construct _sqrt(a)_.**
+
+It's obvious for we can construct a rectangle with its sides *a* and *1*.
+
+**Proposition B<sub>0</sub>: Given _1_ and _a_. We can construct _a<sup>2</sup>_.**
+
+It's a reverse of **Proposition A<sub>0</sub>**.
+
+**Proposition B: Given _1_, _a_ and _b_. We can construct _ab_.**
+
+It's obvious for we can construct _sqrt(ab)_ by using *projection theorem*.
+
+**Proposition C: Given _a_ and a positive integer _n_, we can construct _a / n_.**
+
+It's possible because of *proportional segment theorem*.
+
+**Proposition D: Given _1_ and _a_, we can construct _1 / a_.**
+
+It's a reverse of **Proposition B**, for _(1 / a) * a = 1_.
+
+By proposition A, B, C and D, we finally proved the **Proposition 1**.
+
+> The next post will be also related to compass-and-straightedge construction and analytical geometry. In the next post, I'll find a few examples to shhow the way of using the proposition.
